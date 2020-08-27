@@ -1,0 +1,3 @@
+_ins_mem:分配記憶體空間及位置
+_data_mem:寫入/讀出記憶體
+Reg_file:
